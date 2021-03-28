@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adaojose" alt="dexternatan" /></p>
 
 ### Hi 👋 I am Adão José
  Full-Stack Developer, coffe lover, PHP, Javascript and PWA fan.
