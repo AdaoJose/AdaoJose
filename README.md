@@ -2,6 +2,7 @@
 
 ### Hi 👋 I am Adão José
  Full-Stack Developer, coffe lover, PHP, Javascript and PWA fan.
+ Graduated in Analize and systems development (Unicesumar University)
  i'm learning at the moment ReactNative, ReactJs, Deno
  
  ## 🚀💻 Technologies & Tools
